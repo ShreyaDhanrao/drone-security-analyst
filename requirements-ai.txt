@@ -1,0 +1,4 @@
+-r requirements.txt
+langchain>=0.2,<1.0
+langchain-ollama>=0.1,<1.0
+requests>=2.31,<3.0
